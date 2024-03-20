@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\bin\Debug\net6.0-windows\KPO_Vaja2.exe
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\bin\Debug\net6.0-windows\KPO_Vaja2.deps.json
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\bin\Debug\net6.0-windows\KPO_Vaja2.runtimeconfig.json
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\bin\Debug\net6.0-windows\KPO_Vaja2.dll
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\bin\Debug\net6.0-windows\KPO_Vaja2.pdb
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.Form1.resources
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.dll
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\refint\KPO_Vaja2.dll
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.pdb
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\KPO_Vaja2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\KPO_Vaja2\KPO_Vaja2\obj\Debug\net6.0-windows\ref\KPO_Vaja2.dll
