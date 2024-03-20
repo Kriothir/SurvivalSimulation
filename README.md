@@ -1,2 +1,2 @@
 # SurvivalSimulation
-![image](https://github.com/Kriothir/SurvivalSimulation/assets/65174052/a55b458d-0f5f-45d5-ae34-159ce0980b3d)
+![image](https://github.com/Kriothir/SurvivalSimulation/assets/65174052/b9ab7370-cb0f-4517-8cb2-99cbf865d6d9)
